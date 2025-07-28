@@ -8,9 +8,13 @@ Edit
 SmartPremium/
 │
 ├── app.py                 # Streamlit web app for prediction
+
 ├── best_model.pkl         # Trained ML model (Scikit-learn pipeline)
+
 ├── requirements.txt       # Required packages
+
 └── README.md              # Project documentation
+
 📊 Dataset
 The dataset contains customer profiles, vehicle info, health scores, feedback, and past claim history.
 
