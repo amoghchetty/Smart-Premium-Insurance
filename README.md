@@ -6,6 +6,7 @@ bash
 Copy
 Edit
 SmartPremium/
+
 │
 ├── app.py                 # Streamlit web app for prediction
 
